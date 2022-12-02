@@ -19,4 +19,5 @@
 
 ## Requirements
 
-Automate with a script the creation of the infrastructure and the setup of the application.
+- [x] Automate with a script the creation of the infrastructure and the setup of the application.
+- [ ] Todo
