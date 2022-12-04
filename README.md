@@ -1,4 +1,4 @@
-## Problem Requirements
+## Solutions
 
 - [x] Automate the creation of the infrastructure and the setup of the application.
 - [x] Recover from crashes. Implement a method autorestart the service on crash
