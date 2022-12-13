@@ -4,5 +4,5 @@
 - [x] Recover from crashes. Implement a method autorestart the service on crash
 - [x] Backup the logs and database with rotation of 7 days
 - [x] Notify any CPU peak
-- [ ] Implements a CI/CD pipeline for the code
+- [x] Implements a CI/CD pipeline for the code
 - [x] Scale when the number of request are greater than 100 req /min
